@@ -9,7 +9,7 @@ const About = () => {
     <div className='col-2'>
    
     <span className='line'></span>
-    <p>Fen bilimleri ders takibi,<br/>
+    <p className='text'>Fen bilimleri ders takibi,<br/>
 Fen bilimleri eğitim koçluğu,<br/>
 Online destekli konu anlatımı
 Veli ile aylık değerlendirme

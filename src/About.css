@@ -73,6 +73,24 @@
     .about button {
         margin-bottom: 1rem;
     }
+    .about:before{
+        content: '';
+        background: url('./images/video2.jpg') no-repeat center center/cover;
+        height: 100%;
+        width: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: -1;
+    }
+    @media screen and (max-width:940px) {
+        .about .col-2 p {
+         font-size: 1.5rem;
+        }
+       
+    
+    }
+    
 }
 
 

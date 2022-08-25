@@ -2,8 +2,8 @@ import React from 'react'
 
 import Hero from './Hero'
 import Hero2 from './Hero2'
-import About from './About'
-import Demo from './Demo'
+import Hero3 from './Hero3'
+import Hero4 from './Hero4'
 
 
 
@@ -13,8 +13,8 @@ const Home = () => {
    
     <Hero/>
     <Hero2 />
-    <About/>
-    <Demo/>
+    <Hero3/>
+    <Hero4/>
     
    
   </>)
