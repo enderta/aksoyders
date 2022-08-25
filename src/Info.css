@@ -29,21 +29,21 @@
 
 .hero2 .content p:first-child {
     font-style: italic;
-    color: rgb(94, 195, 199);
+    color: rgb(220, 14, 89);
     font-size: 4rem;
     font-weight: bold;
    
 }
 
 .hero2 .content p:nth-child(2) {
-    color: rgb(139, 200, 139);
+    color: rgb(193, 100, 7);
     font-size: 4rem;
     font-weight: bold;
 }
 
 .hero2 .content p:nth-child(3) {
    
-    color: rgb(178, 94, 199);
+    color: white;
     font-size: 4rem;
     font-weight: bold;
 }
