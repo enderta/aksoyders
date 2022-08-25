@@ -4,7 +4,8 @@ const Hero = () => {
   return (
     <div className='hero2'>
         <div className='content'>
-        <p>15 yıllık tecrübe ile</p>
+        <p>15 yıllık deneyim, LGS uzmnanligi ve nitelikli lise 
+        kazandirmada tecrübem ile</p>
         <p>3.siniftan 8.sinifa kadar fen bilimleri derslerinizde</p>
         <p>Birebir yada ikili gruplarda
 Yeni nesil sorulara uygun soru çözümleri ile 
