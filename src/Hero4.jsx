@@ -7,7 +7,7 @@ const Hero4 = () => {
         <p>iletişim ve ayrıntılı bilgi için lütfen arayın</p>
         <p>Selahattin Aksoy</p>
         <p> <a href='tel:+905355555555'>+90 552 080 7450</a></p>
-        <iframe width='300' height='300' src={require('./images/WhatsApp Video 2022-08-25 at 10.08.02 AM.mp4')} title='Youtube video player' frameBorder="1" autoplay="0" allowFullScreen />
+        <iframe width='300' height='300' src={require('./images/WhatsApp Video 2022-08-25 at 10.08.02 AM.mp4')} title='Youtube video player' frameBorder="1" allow="autoplay='0'"  allowFullScreen />
     </div>
     </div>
   )

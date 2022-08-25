@@ -6,6 +6,7 @@ const Hero = () => {
         <div className='content'>
         <p>Merhaba sevgili öğrenciler,</p>
         <p>Ben Fen Bilgisi Ogretmeni Selahattin Aksoy</p>
+        
     </div>
     </div>
   )
